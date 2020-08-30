@@ -1,0 +1,6 @@
+{
+  "specification_file_path": "../static/spec.json",
+  "numlines": 10,
+  "data_file_path": "../data/my.txt",
+  "output_file_path": "../data/out.csv"
+}
