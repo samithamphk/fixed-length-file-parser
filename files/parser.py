@@ -51,5 +51,6 @@ def parse_file(defaults, spec, num_lines, meta_data, is_save=True):
         print(prime_list[0:11])
         if is_save:
             helper.save_as_csv(data=prime_list, file_path = defaults['output_file_path'], encoding=spec['DelimitedEncoding'])
+            print('csv file saved')
 
 
