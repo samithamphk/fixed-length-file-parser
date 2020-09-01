@@ -2,6 +2,7 @@
 This is a fixed length file parser implementaion in python. 
 
 The code do two things. 
+
     - Generate a fixed length file of a user given size 
     - Parse the file (<2GB)
     
