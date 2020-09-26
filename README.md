@@ -1,5 +1,5 @@
 # Fixed Length File Paser
-This is a fixed length file parser implementaion in python. 
+This is a fixed length file parser implementation in python. 
 
 The code do two things. 
 
